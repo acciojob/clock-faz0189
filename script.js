@@ -9,8 +9,7 @@ function currentTime(){
     let min = date.getMinutes()
     
     let sec = date.getSeconds()
-    let todayDate = date.getDate()
-
+    
     let day = date.getDay()
 
     let month = date.getMonth()
