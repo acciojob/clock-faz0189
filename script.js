@@ -26,4 +26,4 @@ function currentTime(){
 let ans = currentTime()
 alert(ans)
 
-setInterval(currentTime,1000)//your JS code here. If required.
+setInterval(currentTime,1000)
